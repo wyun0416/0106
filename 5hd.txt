@@ -1,0 +1,22 @@
+<thml>
+<head>
+<title>第五頁</title>
+</head>
+<body>
+
+時間過得很快,一學期又了尾聲:上課時有任何疑問老師也不厭其煩的解說<p>
+可以感受到老師的認真<br>
+謝謝老師這學期的教導<p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0R2Fr2mcrVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p>
+<a href="index.html">連到第一頁</a>
+<a href="2hd.html">連到第二頁</a>
+<a href="3hd.html">連到第三頁</a>
+<a href="4hd.html">連到第四頁</a>
+
+
+</body>
+</thml>
